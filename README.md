@@ -1,1 +1,2 @@
-# zabkid_deploy
+# zabkid_livapp
+Django live app
