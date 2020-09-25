@@ -1,1 +1,0 @@
-web: gunicorn zabkid.wsgi --log-file -
